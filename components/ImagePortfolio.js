@@ -1,4 +1,5 @@
 import PortfolioElement from "./PortfolioElement"
+
 export default function ImagePortfolio() {
     return(
         <div>
